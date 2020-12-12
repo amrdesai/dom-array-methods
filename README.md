@@ -4,7 +4,7 @@
 
 ## This project uses high order array methods for DOM manipulation
 
-### About
+### Specifications 
 - Use (Random Data API)[https://random-data-api.com] to get mobile devices
 - Use forEach() to loop and output mobile devices
 - Use map() to double the quantity
