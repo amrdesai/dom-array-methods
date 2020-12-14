@@ -1,6 +1,6 @@
 # dom-array-methods
 
-[View Page](https://amrdesai.github.io/dom-array-methods/)
+## [View Page](https://amrdesai.github.io/dom-array-methods/)
 
 ## This project uses high order array methods for DOM manipulation
 
